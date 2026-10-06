@@ -1,0 +1,19 @@
+{
+  "name": "MinePixel",
+  "short_name": "MinePixel",
+  "description": "MinePixel — gioco 2D a blocchi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
